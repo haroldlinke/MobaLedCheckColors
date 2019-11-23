@@ -15,7 +15,7 @@ MobaLedCheckColors on Github: https://github.com/haroldlinke/MobaLedCheckColors
 History of Change
 V1.00 23.11.2019 - Harold Linke - first release
 
-MobaLedCheckColors supports the MobaLedLib by Hardi Stengelin
+MobaLedCheckColors needs and supports the MobaLedLib by Hardi Stengelin
 https://github.com/Hardi-St/MobaLedLib
 
 MobaLedCheckColors is free software: you can redistribute it and/or modify
