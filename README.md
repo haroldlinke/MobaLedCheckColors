@@ -1,2 +1,2 @@
 # MobaLedCheckColors
-Color Checker for MoaLedLib
+Color Checker for MobaLedLib
