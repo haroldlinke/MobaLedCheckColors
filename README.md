@@ -18,6 +18,8 @@ V1.00 23.11.2019 - Harold Linke - first release
 MobaLedCheckColors needs and supports the MobaLedLib by Hardi Stengelin
 https://github.com/Hardi-St/MobaLedLib
 
+Prerequisite: Python 3.7, serial module
+
 MobaLedCheckColors is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
